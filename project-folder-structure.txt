@@ -1,0 +1,17 @@
+﻿personal-profile-nuxt/
+├── app/
+│   ├── app.vue
+│   ├── assets/css/main.css
+│   ├── components/ProfileAvatar.vue
+│   ├── layouts/default.vue
+│   └── pages/
+│       ├── index.vue
+│       └── profile.vue
+├── public/
+│   ├── favicon.ico
+│   └── robots.txt
+├── server/
+├── nuxt.config.ts
+├── package.json
+├── package-lock.json
+└── tsconfig.json
